@@ -1,5 +1,5 @@
 <div align="center">
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Yeonji%20Kim&fontSize=90)
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Yeonji%20Kim&fontSize=90" />
 <!--
 **rladuswl/rladuswl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
