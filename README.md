@@ -45,6 +45,7 @@
   
 **✏ Studying**
 
+<img src="https://img.shields.io/badge/Google Cloud Platform-4285F4?style=flat&logo=Google Cloud&logoColor=white" />
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/Google Analytics-E37400?style=flat&logo=Google Analytics&logoColor=white" />
   
